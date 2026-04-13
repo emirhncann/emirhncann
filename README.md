@@ -1,7 +1,7 @@
 
 
 ## 💫 About Me:
-4th-year CTIS student at Bartin University.
+I am a Software Developer focused on building scalable, high-performance solutions using modern frameworks. Currently, I am pursuing a Master of Science (M.Sc.) in Management Information Systems (MIS), where I bridge the gap between technical execution and strategic business management.
 
 
 ## 🌐 Socials:
